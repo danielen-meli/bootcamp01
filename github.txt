@@ -1,3 +1,8 @@
 aula 01 - instruções para criacao de um novo git.
 
-muda muda mudaaaaaa
+muda muda mudaaaa
+
+
+enquanto não resolver o pre commit tem que colocar --no-verify depois de cada msg de commmit 
+
+ai fica assim: git commit -m "mensagem do commit" --no-verify
